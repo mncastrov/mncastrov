@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mncastrov
-- 👀 I’m interested in programming Python and C#
-- 🌱 I’m currently learning C# for .NET MAUI
+- C#, C++, Python, and C
 - 📫 How to reach me : Email - mikele.castroberde@gmail.com
   
 

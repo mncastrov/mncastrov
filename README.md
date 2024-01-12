@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mncastrov
 - C#, C++, Python, and C
 - 📫 How to reach me : Email - mikele.castroberde@gmail.com
+- This is a dummy account for appcon contest, just for contributions only.
   
 
 <!---
